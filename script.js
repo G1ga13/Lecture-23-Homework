@@ -26,7 +26,11 @@
 
 // let words = ["world", "is", "yours"];
 
-// console.log(words.join("-"));
+// function gather(words) {
+//   return words.join(" ");
+// }
+
+// console.log(gather(words));
 
 // number 5
 
@@ -38,7 +42,7 @@
 
 // console.log(sum);
 
-//number 6
+// number 7
 
 // let numbers = [30, 70, 110];
 
@@ -47,3 +51,99 @@
 // });
 
 // console.log(diff);
+
+// number 8
+
+// let numbers = [1, 2, 3, 4, 5, 7, 8, 9, 10];
+
+// function multiply(numbers) {
+//   let newNumbers = numbers.map((element) => {
+//     return element * 2;
+//   });
+//   return newNumbers;
+// }
+// console.log(multiply(numbers));
+
+// number 9
+
+// let text = ["MAWONI", "SAZAMTRO", "LIkani"];
+
+// function lower(text) {
+//   let newText = text.map((element) => {
+//     return element.toLowerCase();
+//   });
+//   return newText;
+// }
+
+// console.log(lower(text));
+
+//number 11
+
+// ვერ გავიგე !!!
+
+// number 12
+
+// let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+// function final(numbers) {
+//   let newNumbers = numbers.map((element) => {
+//     return element * element;
+//   });
+//   return newNumbers;
+// }
+
+// console.log(final(numbers));
+
+// number 13
+
+// ვერა
+
+// number 14
+
+// let students = [
+//   {
+//     name: "Vaxo",
+//     score: 70,
+//   },
+//   {
+//     name: "Mari",
+//     score: 50,
+//   },
+//   {
+//     name: "Leo",
+//     score: 10,
+//   },
+
+//   {
+//     name: "Genadi",
+//     score: 90,
+//   },
+//   {
+//     name: "kira",
+//     score: 120,
+//   },
+// ];
+
+// students.forEach((element) => {
+//   element.score += 5;
+// });
+
+// console.log(students);
+
+// number 16
+
+// let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+// function reverse(numbers) {
+//   for (i = 0; i < numbers.length; i++) {
+//     return numbers.reverse();
+//   }
+// }
+// console.log(numbers);
+// console.log(reverse(numbers));
+
+// number 17
+// ვერა
+
+// number 18
+// ვერა
