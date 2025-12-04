@@ -150,13 +150,13 @@
 
 // number 19
 
-let numbers = [2, 4, 7, 9, 10, 15, 30, 35];
+// let numbers = [2, 4, 7, 9, 10, 15, 30, 35];
 
-function final(numbers) {
-  let newNumbers = numbers.filter((element) => {
-    return element > 10;
-  });
-  return newNumbers;
-}
+// function final(numbers) {
+//   let newNumbers = numbers.filter((element) => {
+//     return element > 10;
+//   });
+//   return newNumbers;
+// }
 
-console.log(final(numbers));
+// console.log(final(numbers));
