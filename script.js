@@ -154,7 +154,7 @@ let numbers = [2, 4, 7, 9, 10, 15, 30, 35];
 
 function final(numbers) {
   let newNumbers = numbers.filter((element) => {
-    numbers[element] > 10;
+    return element > 10;
   });
   return newNumbers;
 }
