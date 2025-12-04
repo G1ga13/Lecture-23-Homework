@@ -168,8 +168,8 @@
 //   document.body.appendChild(p);
 // }
 
-let elements = [
-  document.createElement("p"),
-  document.createElement("div"),
-  document.createElement("input"),
-];
+// let elements = [
+//   document.createElement("p"),
+//   document.createElement("div"),
+//   document.createElement("input"),
+// ];
