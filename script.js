@@ -160,3 +160,16 @@
 // }
 
 // console.log(final(numbers));
+
+// number 20
+
+// let array = document.createElement("p");
+// for (let index = 0; index < array.length; index++) {
+//   document.body.appendChild(p);
+// }
+
+let elements = [
+  document.createElement("p"),
+  document.createElement("div"),
+  document.createElement("input"),
+];
